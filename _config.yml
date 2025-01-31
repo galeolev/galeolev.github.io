@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hao Luo / 罗浩"
+title                    : "罗浩 / Hao Luo"
 title_separator          : "-"
 name                     : &name "Hao Luo"
 description              : &description "I am an associate professor at Chongqing Normal University (CQNU)"
