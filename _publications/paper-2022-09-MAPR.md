@@ -3,8 +3,15 @@ title: "From differential equation solvers to accelerated first-order methods fo
 collection: publications
 category: manuscripts
 permalink: /publication/paper-2022-09-MAPR
-excerpt: 'Convergence analysis of accelerated first-order methods for convex optimization prob- lems are developed from the point of view of ordinary differential equation solvers. A new dynamical system, called Nesterov accelerated gradient (NAG) flow, is derived from the connection between acceleration mechanism and A-stability of ODE solvers, and the exponential decay of a tailored Lyapunov function along with the solution tra- jectory is proved. Numerical discretizations of NAG flow are then considered and convergence rates are established via a discrete Lyapunov function. The proposed differential equation solver approach can not only cover existing accelerated meth- ods, such as FISTA, Güler’s proximal algorithm and Nesterov’s accelerated gradient method, but also produce new algorithms for composite convex optimization that pos- sess accelerated convergence rates. Both the convex and the strongly convex cases are handled in a unified way in our approach.'
-date: 2022-09
+excerpt: 'Convergence analysis of accelerated first-order methods for convex optimization problems are developed from the point of view of ordinary differential equation solvers. 
+A new dynamical system, called Nesterov accelerated gradient (NAG) flow, is derived from the connection between acceleration mechanism and A-stability of ODE solvers, and the 
+exponential decay of a tailored Lyapunov function along with the solution trajectory is proved. 
+Numerical discretizations of NAG flow are then considered and convergence rates are established via a discrete Lyapunov function. 
+The proposed differential equation solver approach can not only cover existing accelerated methods, such as FISTA, Güler’s proximal algorithm and 
+Nesterov’s accelerated gradient method, but also produce new algorithms for composite convex 
+optimization that possess accelerated convergence rates. 
+Both the convex and the strongly convex cases are handled in a unified way in our approach.'
+date: 2022-09-01
 venue: 'Mathematical Programming'
  # slidesurl: 'http://galeolev.github.io/files/talk-2024-09-2bAPD.pdf'
 paperurl: 'http://galeolev.github.io/files/paper-2022-09-MAPR.pdf'
