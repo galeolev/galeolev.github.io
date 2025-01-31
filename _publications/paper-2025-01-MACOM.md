@@ -8,7 +8,7 @@ date: 2025-01-27
 venue: 'Mathematics of Compuation'
 slidesurl: 'http://galeolev.github.io/files/talk-2024-09-2bAPD.pdf'
 paperurl: 'http://galeolev.github.io/files/paper-2025-01-MACOM.pdf'
-citation: 'Hao, Luo and Zihang, Zhang. (2025). &quot;A unified differential equation solver approach for separable convex optimization: Splitting, acceleration and nonergodic rate&quot; <i>Math. Comp.</i>. 94(352).'
+citation: 'Hao, Luo and Zihang, Zhang. (2025). &quot;A unified differential equation solver approach for separable convex optimization: Splitting, acceleration and nonergodic rate&quot; <i>Math. Comp</i>. 94(352).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

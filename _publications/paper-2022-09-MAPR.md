@@ -15,7 +15,7 @@ date: 2022-09-01
 venue: 'Mathematical Programming'
  # slidesurl: 'http://galeolev.github.io/files/talk-2024-09-2bAPD.pdf'
 paperurl: 'http://galeolev.github.io/files/paper-2022-09-MAPR.pdf'
-citation: 'Hao, Luo and Long, Chen. (2022). &quot;From differential equation solvers to accelerated first-order methods for convex optimization&quot; <i>Math. Program.</i>. 195.'
+citation: 'Hao, Luo and Long, Chen. (2022). &quot;From differential equation solvers to accelerated first-order methods for convex optimization&quot; <i>Math. Program</i>. 195.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
