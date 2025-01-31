@@ -17,10 +17,13 @@ Education
 
 Work experience
 ======
-* Fall 2022: Research Assistant
+* Winter 2024: Associate Professor
   * Chongqing Normal University
 
-* Fall 2020: Postdoc
+* Fall 2022: Assistant Professor
+  * Chongqing Normal University
+  
+* Fall 2020: Postdoc Fellow
   * Peking University
   * Supervisor: Professor Jun Hu
 
