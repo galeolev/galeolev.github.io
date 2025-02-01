@@ -2,9 +2,9 @@
 title: "Optimal error estimates of a time-spectral method for fractional diffusion problems with low regularity data"
 collection: preprints
 category: preprints
-permalink: /publication/paper-2022-02-24-JSC-opt-err-time-spec-low-regu
-excerpt: 'This paper is devoted to the error analysis of a time-spectral algorithm for fractional diffusion problems of order α (0 <α<1). The solution regularity in the Sobolev space is revisited and new regularity results in the Besov space are established. A time-spectral algorithm is developed which adopts a standard spectral method and a conforming linear finite element method for temporal and spatial discretizations, respectively. Optimal error estimates are derived with nonsmooth data. Particularly, a sharp temporal convergence rate 1 + 2α is shown theoretically and numerically.'
-# date: 2022-02-24
+permalink: /pureprint/preprint-2019-12-19-arXiv-1912.09276-HNAG
+excerpt: 'A novel dynamical inertial Newton system, which is called Hessian-driven Nesterov accelerated gradient (H-NAG) flow is proposed. Convergence of the continuous trajectory are established via tailored Lyapunov function, and new first-order accelerated optimization methods are proposed from ODE solvers. It is shown that (semi-)implicit schemes can always achieve linear rate and explicit schemes have the optimal(accelerated) rates for convex and strongly convex objectives. In particular, Nesterov’s optimal method is recovered from an explicit scheme for our H-NAG flow. Furthermore, accelerated splitting algorithms for composite optimization problems are also developed.'
+date: 2019-12-19
 # venue: 'Journal of Scientific Computing'
 # slidesurl: 'http://galeolev.github.io/files/talk-2024-09-2bAPD.pdf'
 paperurl: 'http://galeolev.github.io/files/preprint-2019-12-19-arXiv-1912.09276-HNAG.pdf'
