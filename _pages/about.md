@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor of the National Center for Applied Mathematics in Chongqing [NCAMC](https://cqcam.cqnu.edu.cn/Version2022/sy.htm), at Chongqing Normal University [CQNU](https://www.cqnu.edu.cn). This is my academic homepage. Wellcome!
-
-My research interests cover numerical analysis and continuous/multiobjective optimization, mainly including numerical methods for partial differential equations and accelerated first-order gradient-based methods. 
+Welcome to my academic homepage! I am an associate professor of the National Center for Applied Mathematics in Chongqing [NCAMC](https://cqcam.cqnu.edu.cn/Version2022/sy.htm), at Chongqing Normal University [CQNU](https://www.cqnu.edu.cn). My research interests cover numerical analysis and continuous/multiobjective optimization, mainly including numerical methods for partial differential equations and accelerated first-order gradient-based methods. 
 
 <!-- A data-driven personal website
 ======
